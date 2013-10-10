@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * ${1:Saber UI}
+ * Copyright ${2:2013} Baidu Inc. All rights reserved.
+ * 
+ * @file ${3:__fileName__}
+ * @author ${4:zfkun(zfkun@msn.com)}
+ */
+
+$0
+]]></content>
+    <tabTrigger>c-f</tabTrigger>
+    <description>file comment - Saber</description>
+    <scope>source.js</scope>
+</snippet>

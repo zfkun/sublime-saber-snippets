@@ -1,0 +1,26 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * ${1:Saber UI}
+ * Copyright ${2:2013} Baidu Inc. All rights reserved.
+ * 
+ * @file ${3:__fileName__}
+ * @author ${4:zfkun(zfkun@msn.com)}
+ */
+
+define(function () {$0
+${5:
+    var ${6:Module} = function () {
+    \};
+
+    ${6:Module}.prototype = {
+    \};
+
+    return ${6:Module};
+}
+});
+]]></content>
+    <tabTrigger>m-f</tabTrigger>
+    <description>module file - Saber</description>
+    <scope>source.js</scope>
+</snippet>
